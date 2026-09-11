@@ -48,15 +48,6 @@ I design and benchmark lightweight, private, and localized software systems. My 
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JishnuuUwU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JishnuuUwU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://my.linkedin.com/in/jishnuu-ram)
