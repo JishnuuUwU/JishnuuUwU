@@ -1,4 +1,4 @@
-# Jishnuu Ram
+# Jishnuu Ram Nair
 
 **AI & Systems Engineering** | Focusing on local model deployment, agentic runtimes, and low-latency backend architectures.
 
@@ -45,6 +45,15 @@ I design and benchmark lightweight, private, and localized software systems. My 
 | **Edge & Local AI** | Quantization, NPU/GPU layer offloading, prompt caching | Sub-50ms TTFT, zero-cloud data leak |
 | **Agentic Systems** | Structured function calling, deterministic state graphs | Reliable multi-step tool execution |
 | **System Backends** | Async APIs, connection pooling, lightweight microservices | Low memory footprints, predictable throughput |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JishnuuUwU&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuuUwU&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
